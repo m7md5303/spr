@@ -34,7 +34,7 @@
   }
 }
 
-.imgintro{width: 98.7vw;height: 100vh;margin-bottom: 12vh;}
+.imgintro{width: 98.7vw;height: 85vh;margin-bottom: 12vh;}
 .App{
   background-color:#070664;display: flex;flex-direction: column;align-items: center;justify-content: center;
 }
