@@ -102,8 +102,13 @@ padding: 2vw;margin-top: 10vh; border-style: solid;border-width: 0.5vw;border-co
 .fcont p{font-size: 4.6vw;}
 .fcont{height: 40vh;}
 .fcont img{height: 40vh;width: 30vw;}
+.mdcont{height: 27vh;}
+.mdcont img{height: 27vh;}
+.mkcont{height: 27vh;}
+.mkcont img{height: 27vh;}
 .mdcont p{font-size:4.8vw;}
 .mkcont p{font-size: 4.8vw;}
+.cont h1{font-size: 4.8vw;}
 .prc{font-size: 3vw;}
 .prc h1{font-size: 2vw;}
 }
