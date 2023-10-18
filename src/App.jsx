@@ -29,7 +29,7 @@ function App() {
           9999999999999999,
           "",
         ]}
-        speed={30}
+        speed={15}
         style={{ whiteSpace: 'pre-line', fontSize: '2.4em', color: 'white' 
         ,marginBottom:'12vh'}}
         repeat={1}
