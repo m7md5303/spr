@@ -18,7 +18,7 @@ import Flight from './components/Flight';
 function App() {
   return (
     <div className="App">
-      
+       {window.scrollTo(0,0)}
       <img src={m} className='imgintro'/>
       <div className='mintro'>    <Fade delay={200}>
       <img src={l} className='l'/>
@@ -80,8 +80,8 @@ function App() {
   
   <Fade delay={200}>
   <h1 className='ked'> ⭐⭐⭐ برامج الثلاثة نجوم 15 أيام- 14 ليالي </h1>
-   <Mekka title={"أبراج الكسوة أو ما يماثله"} img={ka} para={"   مدة الاقامة: خمس أيام || الوجبات: بالافطار "}/>
-   <Madina title={"حياة طيبة أو ما يماثله"} img={hty} para={"  مدة الاقامة: أربع أيام || الوجبات: بالافطار " }/> 
+   <Mekka title={"أبراج الكسوة أو ما يماثله"} img={ka} para={"   مدة الاقامة: خمس ليال || الوجبات: بالافطار "}/>
+   <Madina title={"حياة طيبة أو ما يماثله"} img={hty} para={"  مدة الاقامة: تسع ليال || الوجبات: بالافطار " }/> 
    <h1 className='date' >تاريخ الرحلة: من يوم 11 ربيع الثاني 1445 هجري الى 25 ربيع الثاني 1445 هجري</h1>
    <h1 className='date'>تاريخ الرحلة: من يوم 26 أكتوبر 2023 الى 9 نوفمبر 2023</h1>
    <ul>
