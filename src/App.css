@@ -97,11 +97,11 @@ padding: 2vw;margin-top: 10vh; border-style: solid;border-width: 0.5vw;border-co
 
 @media only screen and (max-width: 768px) {
  .kcont p{font-size: 4.6vw;}
- .kcont img{border-radius: 0;}
+ .kcont img{height: max-content;}
 .fcont p{font-size: 4.6vw;}
-.fcont img{border-radius: 0;}
-.mdcont{font-size: 4.6vw;}
-.mkcont{font-size: 4.6vw;}
+.fcont img{height: max-content;}
+.mdcont{font-size: 6.4vw;}
+.mkcont{font-size: 6.4vw;}
 .prc{font-size: 3vw;}
 .prc h1{font-size: 2vw;}
 }
