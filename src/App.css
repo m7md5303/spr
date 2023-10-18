@@ -108,10 +108,11 @@ padding: 2vw;margin-top: 10vh; border-style: solid;border-width: 0.5vw;border-co
 .mkcont img{height: 27vh;}
 .mdcont p{font-size:4.8vw;}
 .mkcont p{font-size: 4.8vw;}
-.cont h1{font-size: 4.8vw;}
+.mdcont h1{font-size: 5vw;}
+.mkcont h1{font-size: 5vw;}
 .prc{font-size: 3vw;}
 .prc h1{font-size: 2vw;}
-.ked h1{font-size: 4.8vw;width:80vw;}
+.ked h1{font-size: 4.8vw;width:98.7vw;}
 .types ul{font-size: 4vw;}
 .types h1{font-size: 3vw;}
 }
