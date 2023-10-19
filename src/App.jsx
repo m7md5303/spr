@@ -26,13 +26,13 @@ function App() {
       <div className='intro'> <TypeAnimation
         sequence={[
           ' الى كل من غلبهم الشوق و ملأتهم الأمنيات بزيارة بيت اللّه الحرام ومسجد رسول اللّه ﷺ، تعلن شركة الماسة ترافيل عن فتح باب حجز العمرة لموسم 1445 من الهجرة النبوية الشريفة سائلين اللّه لنا ولكم القبول والاخلاص',
-          9999999999999999,
+          1000,
           "",
         ]}
-        speed={15}
+        speed={50}
         style={{ whiteSpace: 'pre-line', fontSize: '2.4em', color: 'white' 
         ,marginBottom:'12vh'}}
-        repeat={1}
+        repeat={Infinity}
       /></div></Fade></div>
       
 
