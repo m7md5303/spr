@@ -29,7 +29,7 @@ function App() {
           1000,
           "",
         ]}
-        speed={50}
+        speed={15}
         style={{ whiteSpace: 'pre-line', fontSize: '2.4em', color: 'white' 
         ,marginBottom:'12vh'}}
         repeat={Infinity}
